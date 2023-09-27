@@ -1,0 +1,25 @@
+.App{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin:10px;
+
+}
+
+.btn-color{
+    border-radius: 2rem;
+    min-width: 10rem;
+    text-align: center;
+    background-color: #1763d6d1;
+    border-color: #1763d6fc;
+    color: #ffffff;
+  }
+  .btn-color:hover{
+    color: #ffffff;
+    background-color:#1763d6;
+    border-color: #1763d6f6;
+  }
+  
+  
